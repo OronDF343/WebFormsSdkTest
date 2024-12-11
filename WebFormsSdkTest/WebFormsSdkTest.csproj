@@ -1,7 +1,6 @@
 ﻿<Project Sdk="MSBuild.SDK.SystemWeb/4.0.93">
 	<PropertyGroup>
 		<TargetFramework>net48</TargetFramework>
-    <TargetPlatform>x64</TargetPlatform>
     <Platforms>x64</Platforms>
     <Platform>x64</Platform>
     <!-- Required for publish -->
