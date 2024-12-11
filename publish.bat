@@ -1,1 +1,1 @@
-msbuild /t:Restore,Build /p:LibraryRestore=false /p:DeployOnBuild=true /p:PublishProfile=Precompiled.pubxml /p:WebPublishMethod=Package /p:PackageAsSingleFile=true /p:PackageLocation="C:\\temp\\" WebFormsSdkTest\WebFormsSdkTest.csproj
+msbuild /t:Restore,Build /p:LibraryRestore=false /p:DeployOnBuild=true /p:PublishProfile=Precompiled.pubxml /p:WebPublishMethod=Package /p:PackageAsSingleFile=true /p:PackageLocation="S:\\temp\\" WebFormsSdkTest\WebFormsSdkTest.csproj
