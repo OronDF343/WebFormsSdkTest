@@ -1,8 +1,10 @@
 ﻿<Project Sdk="MSBuild.SDK.SystemWeb/4.0.93">
 	<PropertyGroup>
 		<TargetFramework>net48</TargetFramework>
-		<PlatformTarget>x64</PlatformTarget>
-	</PropertyGroup>
+    <Platforms>x64</Platforms>
+    <Platform>x64</Platform>
+    <!-- Required for publish -->
+  </PropertyGroup>
 	<PropertyGroup>
 		<GeneratedBindingRedirectsAction>Overwrite</GeneratedBindingRedirectsAction>
 	</PropertyGroup>
